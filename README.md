@@ -1,4 +1,5 @@
 # Projeto TecBlog  
+***
 
 Um projeto simples de blog de tecnologia usando **HTML** e **CSS** para fazer o posicionamento de elementos e estilização de links.  
 
